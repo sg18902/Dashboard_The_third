@@ -1,0 +1,38 @@
+{
+    "January 2024": [
+        { "city": "London", "sales": 5000, "quantity": 1500, "lat": 51.5074, "lng": -0.1278 },
+        { "city": "Manchester", "sales": 3000, "quantity": 900, "lat": 53.4839, "lng": -2.2446 },
+        { "city": "Birmingham", "sales": 2500, "quantity": 800, "lat": 52.4862, "lng": -1.8904 },
+        { "city": "Leeds", "sales": 2000, "quantity": 700, "lat": 53.8008, "lng": -1.5491 },
+        { "city": "Liverpool", "sales": 1500, "quantity": 600, "lat": 53.4084, "lng": -2.9916 },
+        { "city": "Glasgow", "sales": 1200, "quantity": 500, "lat": 55.8642, "lng": -4.2518 },
+        { "city": "Edinburgh", "sales": 1100, "quantity": 450, "lat": 55.9533, "lng": -3.1883 },
+        { "city": "Bristol", "sales": 1000, "quantity": 400, "lat": 51.4545, "lng": -2.5879 },
+        { "city": "Sheffield", "sales": 950, "quantity": 350, "lat": 53.3811, "lng": -1.4701 },
+        { "city": "Nottingham", "sales": 900, "quantity": 300, "lat": 52.9548, "lng": -1.1581 }
+    ],
+    "February 2024": [
+        { "city": "London", "sales": 5100, "quantity": 1550, "lat": 51.5074, "lng": -0.1278 },
+        { "city": "Manchester", "sales": 3100, "quantity": 920, "lat": 53.4839, "lng": -2.2446 },
+        { "city": "Birmingham", "sales": 2600, "quantity": 820, "lat": 52.4862, "lng": -1.8904 },
+        { "city": "Leeds", "sales": 2100, "quantity": 710, "lat": 53.8008, "lng": -1.5491 },
+        { "city": "Liverpool", "sales": 1600, "quantity": 620, "lat": 53.4084, "lng": -2.9916 },
+        { "city": "Glasgow", "sales": 1250, "quantity": 510, "lat": 55.8642, "lng": -4.2518 },
+        { "city": "Edinburgh", "sales": 1150, "quantity": 460, "lat": 55.9533, "lng": -3.1883 },
+        { "city": "Bristol", "sales": 1050, "quantity": 410, "lat": 51.4545, "lng": -2.5879 },
+        { "city": "Sheffield", "sales": 960, "quantity": 360, "lat": 53.3811, "lng": -1.4701 },
+        { "city": "Nottingham", "sales": 910, "quantity": 310, "lat": 52.9548, "lng": -1.1581 }
+    ],
+    "March 2024": [
+        { "city": "London", "sales": 5200, "quantity": 1600, "lat": 51.5074, "lng": -0.1278 },
+        { "city": "Manchester", "sales": 3200, "quantity": 940, "lat": 53.4839, "lng": -2.2446 },
+        { "city": "Birmingham", "sales": 2700, "quantity": 840, "lat": 52.4862, "lng": -1.8904 },
+        { "city": "Leeds", "sales": 2200, "quantity": 720, "lat": 53.8008, "lng": -1.5491 },
+        { "city": "Liverpool", "sales": 1700, "quantity": 640, "lat": 53.4084, "lng": -2.9916 },
+        { "city": "Glasgow", "sales": 1300, "quantity": 520, "lat": 55.8642, "lng": -4.2518 },
+        { "city": "Edinburgh", "sales": 1200, "quantity": 470, "lat": 55.9533, "lng": -3.1883 },
+        { "city": "Bristol", "sales": 1100, "quantity": 420, "lat": 51.4545, "lng": -2.5879 },
+        { "city": "Sheffield", "sales": 970, "quantity": 370, "lat": 53.3811, "lng": -1.4701 },
+        { "city": "Nottingham", "sales": 920, "quantity": 320, "lat": 52.9548, "lng": -1.1581 }
+    ]
+}

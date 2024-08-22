@@ -1,0 +1,413 @@
+{
+    "January 2024": [
+        {
+            "name": "Vintage Vase",
+            "percentage": {
+                "sales": "8.54%",
+                "quantity": "9.09%"
+            },
+            "sales": 14.4,
+            "quantity": 120
+        },
+        {
+            "name": "Retro Bag Red Spot",
+            "percentage": {
+                "sales": "5.40%",
+                "quantity": "7.09%"
+            },
+            "sales": 8.5,
+            "quantity": 85
+        },
+        {
+            "name": "Festive Bunting",
+            "percentage": {
+                "sales": "3.84%",
+                "quantity": "5.09%"
+            },
+            "sales": 6.1,
+            "quantity": 60
+        },
+        {
+            "name": "Shipping Supplies",
+            "percentage": {
+                "sales": "2.93%",
+                "quantity": "4.55%"
+            },
+            "sales": 5.3,
+            "quantity": 55
+        },
+        {
+            "name": "Heart T-Light Holder",
+            "percentage": {
+                "sales": "2.93%",
+                "quantity": "4.36%"
+            },
+            "sales": 5.3,
+            "quantity": 53
+        },
+        {
+            "name": "Strawberry Bag",
+            "percentage": {
+                "sales": "2.55%",
+                "quantity": "4.09%"
+            },
+            "sales": 4.9,
+            "quantity": 50
+        },
+        {
+            "name": "Polkadot Bag Pink",
+            "percentage": {
+                "sales": "2.36%",
+                "quantity": "3.64%"
+            },
+            "sales": 4.7,
+            "quantity": 48
+        },
+        {
+            "name": "Bird Ornament Assorted",
+            "percentage": {
+                "sales": "1.68%",
+                "quantity": "3.18%"
+            },
+            "sales": 4.0,
+            "quantity": 45
+        },
+        {
+            "name": "Ceramic Blue Vase",
+            "percentage": {
+                "sales": "9.21%",
+                "quantity": "7.27%"
+            },
+            "sales": 7.0,
+            "quantity": 70
+        },
+        {
+            "name": "Glass Green Bowl",
+            "percentage": {
+                "sales": "7.91%",
+                "quantity": "6.36%"
+            },
+            "sales": 5.8,
+            "quantity": 58
+        },
+        {
+            "name": "Wool Blanket Red",
+            "percentage": {
+                "sales": "5.66%",
+                "quantity": "6.36%"
+            },
+            "sales": 4.5,
+            "quantity": 55
+        },
+        {
+            "name": "Wooden Board",
+            "percentage": {
+                "sales": "4.12%",
+                "quantity": "3.64%"
+            },
+            "sales": 3.7,
+            "quantity": 45
+        },
+        {
+            "name": "Silk Scarf",
+            "percentage": {
+                "sales": "3.32%",
+                "quantity": "3.64%"
+            },
+            "sales": 3.2,
+            "quantity": 40
+        },
+        {
+            "name": "Leather Wallet",
+            "percentage": {
+                "sales": "2.39%",
+                "quantity": "2.73%"
+            },
+            "sales": 2.9,
+            "quantity": 30
+        },
+        {
+            "name": "Stainless Tumbler",
+            "percentage": {
+                "sales": "1.69%",
+                "quantity": "2.27%"
+            },
+            "sales": 2.1,
+            "quantity": 25
+        }
+    ],
+    "February 2024": [
+        {
+            "name": "Elegant Cake Stand",
+            "percentage": {
+                "sales": "8.62%",
+                "quantity": "9.18%"
+            },
+            "sales": 15.0,
+            "quantity": 125
+        },
+        {
+            "name": "Retro Spot Bag",
+            "percentage": {
+                "sales": "5.57%",
+                "quantity": "7.27%"
+            },
+            "sales": 9.0,
+            "quantity": 90
+        },
+        {
+            "name": "Party Decoration",
+            "percentage": {
+                "sales": "4.10%",
+                "quantity": "6.05%"
+            },
+            "sales": 6.5,
+            "quantity": 62
+        },
+        {
+            "name": "Parcel Postage",
+            "percentage": {
+                "sales": "3.90%",
+                "quantity": "5.91%"
+            },
+            "sales": 5.5,
+            "quantity": 57
+        },
+        {
+            "name": "T-Light Heart Holder",
+            "percentage": {
+                "sales": "3.90%",
+                "quantity": "5.55%"
+            },
+            "sales": 5.5,
+            "quantity": 55
+        },
+        {
+            "name": "Strawberry Tote",
+            "percentage": {
+                "sales": "3.42%",
+                "quantity": "5.18%"
+            },
+            "sales": 5.0,
+            "quantity": 52
+        },
+        {
+            "name": "Pink Polkadot Tote",
+            "percentage": {
+                "sales": "3.02%",
+                "quantity": "4.55%"
+            },
+            "sales": 4.8,
+            "quantity": 50
+        },
+        {
+            "name": "Colorful Bird Ornament",
+            "percentage": {
+                "sales": "2.69%",
+                "quantity": "4.00%"
+            },
+            "sales": 4.2,
+            "quantity": 47
+        },
+        {
+            "name": "Ceramic Blue Pot",
+            "percentage": {
+                "sales": "10.26%",
+                "quantity": "8.80%"
+            },
+            "sales": 7.5,
+            "quantity": 72
+        },
+        {
+            "name": "Bowl Green Glass",
+            "percentage": {
+                "sales": "8.40%",
+                "quantity": "6.55%"
+            },
+            "sales": 6.0,
+            "quantity": 60
+        },
+        {
+            "name": "Red Wool Throw",
+            "percentage": {
+                "sales": "5.25%",
+                "quantity": "6.36%"
+            },
+            "sales": 4.7,
+            "quantity": 56
+        },
+        {
+            "name": "Chopping Board",
+            "percentage": {
+                "sales": "3.63%",
+                "quantity": "4.55%"
+            },
+            "sales": 3.9,
+            "quantity": 46
+        },
+        {
+            "name": "Silk Wrap",
+            "percentage": {
+                "sales": "2.72%",
+                "quantity": "4.00%"
+            },
+            "sales": 3.4,
+            "quantity": 42
+        },
+        {
+            "name": "Wallet Leather",
+            "percentage": {
+                "sales": "1.89%",
+                "quantity": "2.91%"
+            },
+            "sales": 3.0,
+            "quantity": 32
+        },
+        {
+            "name": "Steel Travel Mug",
+            "percentage": {
+                "sales": "1.37%",
+                "quantity": "2.36%"
+            },
+            "sales": 2.2,
+            "quantity": 26
+        }
+    ],
+    "March 2024": [
+        {
+            "name": "Ornate Cake Stand",
+            "percentage": {
+                "sales": "8.69%",
+                "quantity": "9.09%"
+            },
+            "sales": 15.5,
+            "quantity": 130
+        },
+        {
+            "name": "Retro Red Spot Bag",
+            "percentage": {
+                "sales": "5.95%",
+                "quantity": "7.27%"
+            },
+            "sales": 9.5,
+            "quantity": 95
+        },
+        {
+            "name": "Celebration Bunting",
+            "percentage": {
+                "sales": "4.36%",
+                "quantity": "6.55%"
+            },
+            "sales": 6.8,
+            "quantity": 64
+        },
+        {
+            "name": "Delivery Postage",
+            "percentage": {
+                "sales": "4.08%",
+                "quantity": "5.91%"
+            },
+            "sales": 5.7,
+            "quantity": 60
+        },
+        {
+            "name": "Heart Candle Holder",
+            "percentage": {
+                "sales": "4.08%",
+                "quantity": "5.55%"
+            },
+            "sales": 5.7,
+            "quantity": 57
+        },
+        {
+            "name": "Berry Tote Bag",
+            "percentage": {
+                "sales": "3.54%",
+                "quantity": "5.09%"
+            },
+            "sales": 5.2,
+            "quantity": 54
+        },
+        {
+            "name": "Polkadot Pink Tote",
+            "percentage": {
+                "sales": "3.55%",
+                "quantity": "5.09%"
+            },
+            "sales": 5.0,
+            "quantity": 52
+        },
+        {
+            "name": "Bird Figurine Assorted",
+            "percentage": {
+                "sales": "3.05%",
+                "quantity": "4.55%"
+            },
+            "sales": 4.5,
+            "quantity": 49
+        },
+        {
+            "name": "Vase Blue Ceramic",
+            "percentage": {
+                "sales": "10.53%",
+                "quantity": "9.09%"
+            },
+            "sales": 8.0,
+            "quantity": 75
+        },
+        {
+            "name": "Bowl Glass Green",
+            "percentage": {
+                "sales": "8.68%",
+                "quantity": "6.55%"
+            },
+            "sales": 6.2,
+            "quantity": 62
+        },
+        {
+            "name": "Blanket Wool Red",
+            "percentage": {
+                "sales": "5.07%",
+                "quantity": "5.45%"
+            },
+            "sales": 4.9,
+            "quantity": 58
+        },
+        {
+            "name": "Cutting Board Wood",
+            "percentage": {
+                "sales": "3.16%",
+                "quantity": "4.27%"
+            },
+            "sales": 4.1,
+            "quantity": 47
+        },
+        {
+            "name": "Scarf Silk",
+            "percentage": {
+                "sales": "2.49%",
+                "quantity": "4.00%"
+            },
+            "sales": 3.6,
+            "quantity": 44
+        },
+        {
+            "name": "Wallet Genuine Leather",
+            "percentage": {
+                "sales": "1.89%",
+                "quantity": "3.00%"
+            },
+            "sales": 3.1,
+            "quantity": 33
+        },
+        {
+            "name": "Tumbler Stainless Steel",
+            "percentage": {
+                "sales": "1.37%",
+                "quantity": "2.45%"
+            },
+            "sales": 2.3,
+            "quantity": 27
+        }
+    ]
+}
