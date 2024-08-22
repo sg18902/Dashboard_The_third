@@ -70,7 +70,7 @@ For the frontend, you need to set the following environment variable:
 3. Create a `.env` file in the root of the client directory and add the `REACT_APP_API_URL` environment variable:
 
     ```env
-    REACT_APP_API_URL=http://localhost:8000
+    REACT_APP_API_URL=http://localhost:8000/api
     ```
 
 4. Run the React development server:
